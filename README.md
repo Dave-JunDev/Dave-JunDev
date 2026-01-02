@@ -1,4 +1,6 @@
 # 💫 About Me:
+I am a software engineer with a strong passion for creating user-focused software solutions. I specialize in developing new functionalities and enhancing systems by leveraging innovative technologies and services. Additionally, I bring extensive DevOps expertise, including continuous integration and deployment (CI/CD), infrastructure as code, and cloud services management.
+
 🔭 I’m currently working on Improve my programming and cloud skills<br>🤝 I’m looking for help with learn about cloud and CI/CD<br>🌱 I’m currently learning about Go and Angular<br>💬 Ask me about Cloud with AWS, GCP and Azure
 
 
